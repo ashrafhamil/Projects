@@ -14,3 +14,6 @@ How to run for newbie:
 4. Connect it to the database. I used XAMPP.
 5. Run in on your browser
 6. Anything feel free to ask me. 
+
+Images Of Project Output Path:
+Badminton Game Matching Platform/PROJECT IMAGES/Badminton Game Matching Platform
