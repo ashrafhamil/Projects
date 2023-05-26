@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      padding: 20px;
+    }
+
+    h2 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h2>New Player Registration</h2>
+
+  <form name="pregister" method="post" action="pregister.php">
+    <div class="form-group">
+      <label for="playerUserName">Username:</label>
+      <input type="text" class="form-control" id="playerUserName" name="playerUserName" placeholder="Ashraf">
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="fname">First name:</label>
+        <input type="text" class="form-control" id="fname" name="fname" placeholder="Ashraf">
+      </div>
+      <div class="form-group col-md-6">
+        <label for="lname">Last name:</label>
+        <input type="text" class="form-control" id="lname" name="lname" placeholder="Hamil">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="add1">Address 1:</label>
+      <input type="text" class="form-control" id="add1" name="add1" placeholder="No 86 Batu 28">
+    </div>
+
+    <div class="form-group">
+      <label for="add2">Address 2:</label>
+      <input type="text" class="form-control" id="add2" name="add2" placeholder="Kota Lama Kiri">
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="zip">Zip/Postal Code:</label>
+        <input type="text" class="form-control" id="zip" name="zip" placeholder="33000">
+      </div>
+      <div class="form-group col-md-6">
+        <label for="city">City:</label>
+        <input type="text" class="form-control" id="city" name="city" placeholder="Kuala Kangsar">
+      </div>
+    </div>
+
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="state">State:</label>
+        <input type="text" class="form-control" id="state" name="state" placeholder="Perak">
+      </div>
+      <div class="form-group col-md-6">
+        <label for="email">Email Address:</label>
+        <input type="email" class="form-control" id="email" name="email" placeholder="ashrafhamil@mail.com">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="phone">Phone:</label>
+      <input type="text" class="form-control" id="phone" name="phone" placeholder="01162521464">
+    </div>
+
+    <div class="form-group">
+      <label for="pass">Password:</label>
+      <input type="password" class="form-control" id="pass" name="pass">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form> 
+</div>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
