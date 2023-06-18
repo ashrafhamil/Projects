@@ -13,7 +13,7 @@ How to run for newbie:
 3. Make sure to change the database details in the files based on your database details.
 4. Connect it to the database. I used XAMPP.
 5. Run in on your browser
-6. Anything feel free to ask me. 
+6. Anything feel free to ask me at ashrafhamil@yahoo.com or instagram @ashrafhamil. 
 
 Images Of Project Output Path:
 Badminton Game Matching Platform/PROJECT IMAGES/Badminton Game Matching Platform
