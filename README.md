@@ -12,7 +12,7 @@ Installation Guide:
 2. Import the database(tempatmain.sql).
 3. Connect it to the database. I used XAMPP.
 4. Run it on your browser.
-5. Anything feel free to ask me at ashrafhamil@yahoo.com , instagram @ashrafhamil, tele @snowydesert. 
+5. Anything feel free to ask me at ashrafhamil@yahoo.com , tele @snowydesert. 
 
 Images Of Project Output Path:
 Badminton Game Matching Platform/PROJECT IMAGES/Badminton Game Matching Platform
